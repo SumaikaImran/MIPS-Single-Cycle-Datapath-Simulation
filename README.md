@@ -25,7 +25,3 @@ This project focuses on simulating a simplified version of the MIPS architecture
 
 ##  Tools & Technologies
 - **Logisim** – for circuit design and simulation  
-
-2. Clone the repository:
-   ```bash
-   git clone https://github.com/SumaikaImran/MIPS-Single-Cycle-Datapath-Simulation
